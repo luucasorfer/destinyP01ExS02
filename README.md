@@ -1,6 +1,4 @@
-<p align="center">
-<h1> Projeto 01 Extra - <img alt="icone" style="width: 17px" src="./assets/favicon.svg"> Destiny </h1>
-</p>
+<h1 align="center"> Projeto 01 Extra - <img alt="icone" style="width: 17px" src="./assets/favicon.svg"> Destiny </h1>
 
 <p align="center">
 Este projeto é exclusivo do curso Explorer, promovido pela Rocketseat para ensino de tecnologias WEB. </br>
